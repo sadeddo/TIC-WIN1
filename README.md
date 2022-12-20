@@ -1,0 +1,2 @@
+# TIC-WIN1
+.NET Core
